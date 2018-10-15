@@ -28,7 +28,7 @@
         <br>
         <nuxt-link class="Codesandbox__Examples" to="/examples">{{ $store.state.lang.homepage.codesandbox_examples }}</nuxt-link>
       </p>
-      <iframe src="https://codesandbox.io/s/github/nuxt/codesandbox-nuxt/tree/master/?autoresize=1&hidenavigation=1&view=preview" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"></iframe>
+      <iframe src="https://codesandbox.io/s/github/nuxt/codesandbox-nuxt/tree/master/?autoresize=1&hidenavigation=1&view=preview" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin" title="CodeSandbox Editor with Nuxt Started Loaded"></iframe>
     </section>
     <nuxt-footer/>
   </div>
